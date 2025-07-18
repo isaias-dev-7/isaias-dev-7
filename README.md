@@ -20,10 +20,4 @@ I'm a passionate developer focused on building efficient and scalable systems. I
 
 ### 📫 Find Me Online
 - 📧 Email: isaiasosoria7@gmail.com
-  
----
-
-### 📊 GitHub Stats *(optional)*
-
-![Isaias GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaias-dev-7&show_icons=true&theme=radical)
 
